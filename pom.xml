@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <scm>
-        <developerConnection>scm:git:https://github.com/axelfontaine/sourcetalk-2.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/vmoor/sourcetalk-1.git</developerConnection>
     </scm>
 
     <distributionManagement>
