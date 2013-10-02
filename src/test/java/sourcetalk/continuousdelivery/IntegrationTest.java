@@ -28,6 +28,7 @@ public class IntegrationTest {
     @Test
     public void addFriend() throws Exception {
 
+
         WebClient webClient = new WebClient(BrowserVersion.INTERNET_EXPLORER_9);
         webClient.setAjaxController(new NicelyResynchronizingAjaxController());
         HtmlPage page = webClient.getPage("http://localhost:8080");
